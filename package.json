@@ -1,0 +1,18 @@
+{
+  "name": "portfolio-menu",
+  "version": "1.0.0",
+  "description": "Portfolio menu interactions",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "Beka Maisuradze",
+  "license": "MIT",
+  "devDependencies": {
+    "gsap": "^3.10.4",
+    "postcss-preset-env": "^7.7.2",
+    "rxjs": "^7.5.6",
+    "smooth-scrollbar": "^8.7.5",
+    "vite": "^3.0.7"
+  }
+}
